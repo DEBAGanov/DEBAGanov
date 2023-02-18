@@ -26,11 +26,3 @@
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov)](https://github.com/DEBAGanov)
-
-
-Светлая тема:  
-[![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DEBAGanov)](https://github.com/DEBAGanov)
-
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DEBAGanov)](https://github.com/DEBAGanov)
