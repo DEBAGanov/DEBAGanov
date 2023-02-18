@@ -29,8 +29,8 @@
 
 
 Светлая тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DEBAGanov)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=DEBAGanov)](https://github.com/DEBAGanov)
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DEBAGanov)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DEBAGanov)](https://github.com/DEBAGanov)
