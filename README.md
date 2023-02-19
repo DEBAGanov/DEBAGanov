@@ -82,9 +82,14 @@ I am an experienced Software Engineer with a strong background in developing app
 
 
 **IDE**
-<img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important" />
+<img align="right" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?logo=gnu-emacs&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=whitee" />
+<img align="right" src="https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" />
+
+
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov)](https://github.com/DEBAGanov)
