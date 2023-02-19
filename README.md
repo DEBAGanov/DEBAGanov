@@ -58,8 +58,6 @@ I am an experienced Software Engineer with a strong background in developing app
 
 ## Skills
 
-
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
 <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" />
@@ -68,6 +66,12 @@ I am an experienced Software Engineer with a strong background in developing app
 
 <!---**Programming**-->
 **Languages**
+
+**Database**
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+
+
 
 <img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
@@ -93,10 +97,6 @@ I am an experienced Software Engineer with a strong background in developing app
 <img align="right" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" />
 
 
-
-**Database**
-<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
 
 
 
