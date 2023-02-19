@@ -123,7 +123,7 @@ I am an experienced Software Engineer with a strong background in developing app
 [![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano)](https://github.com/KnlnKS/leetcode-stats)
 
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/DEBAGanov)   
+[![codewars](https://www.codewars.com/users/username/badges/small))](https://www.codewars.com/users/DEBAGanov)   
 
 
 
