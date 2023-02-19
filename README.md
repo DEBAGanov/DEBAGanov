@@ -6,24 +6,22 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/bagano/)
 
 
-https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
-
 <h1 align="center">Hi there, I'm <a href="https://t.me/baganovs" target="_blank">Vladimir Baganov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> I'm student St. Petersburg Polytechnic University of Peter the Great, Software Engineer. 🇷🇺</h3>
+<h3 align="center"> I'm student St. Petersburg Polytechnic University of Peter the Great, Software Engineer. </h3>
 
 
 
 I am an experienced Software Engineer with a strong background in developing applications using Java. I have experience building enterprise-level applications with a focus on scalability, reliability, and performance. My experience also includes developing complex algorithms, implementing database solutions, and creating RESTful web services. I am also well-versed in using various development tools and technologies, such as Git, Maven, Jenkins, and JUnit. I am an enthusiastic and motivated individual who is always eager to learn and contribute to the development process.
 
-### Key points
+<!---### Key points-->
+
+
+
+<!---### My opensource projects-->
+
 
 ## 🛠 Technical Stack
-
-### My opensource projects
-
-
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
