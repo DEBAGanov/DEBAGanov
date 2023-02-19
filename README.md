@@ -1,9 +1,20 @@
 
 
+[![Top Langs](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/DEBAGanov)
+
 <h1 align="center">Hi there, I'm <a href="https://t.me/baganovs" target="_blank">Vladimir Baganov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+
+
+I am an experienced Software Engineer with a strong background in developing applications using Java. I have experience building enterprise-level applications with a focus on scalability, reliability, and performance. My experience also includes developing complex algorithms, implementing database solutions, and creating RESTful web services. I am also well-versed in using various development tools and technologies, such as Git, Maven, Jenkins, and JUnit. I am an enthusiastic and motivated individual who is always eager to learn and contribute to the development process.
+
+### Key points
+
+## 🛠 Technical Stack
+
+### My opensource projects
 
 
 
