@@ -94,8 +94,12 @@ I am an experienced Software Engineer with a strong background in developing app
 <img align="right" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" />
 
 
+
+<img align="right" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/gradle-02303A?logo=gradle&logoColor=white" />
+
+
 
 
 **Frameworks & Library**
