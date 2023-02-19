@@ -65,7 +65,7 @@ I am an experienced Software Engineer with a strong background in developing app
 
 
 <!---**Programming**-->
-**Languages**
+**Programming Languages**
 
 **Database**
 <img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
