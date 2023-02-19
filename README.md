@@ -39,7 +39,7 @@ I am an experienced Software Engineer with a strong background in developing app
 <!---### My opensource projects-->
 
 
-## 🛠 Technical Stack
+<!---## 🛠 Technical Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -54,7 +54,7 @@ I am an experienced Software Engineer with a strong background in developing app
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
 
 ## Skills
 
@@ -80,6 +80,11 @@ I am an experienced Software Engineer with a strong background in developing app
 
 -->
 
+
+**IDE**
+<img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=whitee" />
+<img align="right" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" />
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov)](https://github.com/DEBAGanov)
