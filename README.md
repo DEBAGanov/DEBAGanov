@@ -59,6 +59,7 @@ I am an experienced Software Engineer with a strong background in developing app
 ## Skills
 
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
 <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" />
 
@@ -121,7 +122,7 @@ I am an experienced Software Engineer with a strong background in developing app
 
 [![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano)](https://github.com/KnlnKS/leetcode-stats)
 
-
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/DEBAGanov/)   
 
 
 
