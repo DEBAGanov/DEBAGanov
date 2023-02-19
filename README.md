@@ -58,9 +58,9 @@ I am an experienced Software Engineer with a strong background in developing app
 
 ## Skills
 
+<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 
 
