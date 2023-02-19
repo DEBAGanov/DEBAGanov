@@ -65,6 +65,7 @@ I am an experienced Software Engineer with a strong background in developing app
 <img align="right" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" />
 
 
+
 **Programming**
 
 <img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
@@ -88,6 +89,11 @@ I am an experienced Software Engineer with a strong background in developing app
 <img align="right" src="https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" />
+
+
+**Database**
+<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
 
 
 
