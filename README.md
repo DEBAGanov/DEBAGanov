@@ -82,7 +82,7 @@ I am an experienced Software Engineer with a strong background in developing app
 
 <details>
   <summary>📃 Resume</summary>
-  
+
 
 ## Education
 
@@ -142,7 +142,7 @@ I am an experienced Software Engineer with a strong background in developing app
 📆 2011 - 2015\
 📍 **Energisa** - Presidente Prudente/SP, Brazil
 
-<!--## Skills
+## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
