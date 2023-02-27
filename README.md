@@ -136,10 +136,12 @@ I am an experienced Software Engineer with a strong background in developing app
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Development**\
+📆 2020 - 2023\
+📍 **St. Petersburg Polytechnic University of Peter the Great** -  Software Engineer, St. Petersburg
 
+📆 2004 - 2009\
+📍 **Moscow State University A. N. Kosygin** - Mechanical Engineer, Moscow
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
