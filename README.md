@@ -136,7 +136,7 @@ I am an experienced Software Engineer with a strong background in developing app
 
 ## Education
 
-- 📖 **Development**\
+📖 **Development**\
 📆 2020 - 2023\
 📍 **St. Petersburg Polytechnic University of Peter the Great** -  Software Engineer, St. Petersburg
 
