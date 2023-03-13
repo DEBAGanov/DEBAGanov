@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/baganovvladimir/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="(https://facebook.com/baganov">
+  <a href="(https://facebook.com/baganov/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://t.me/baganovs">
@@ -205,8 +205,8 @@ I am an experienced Software Engineer with a strong background in developing app
 
 
 
-<details>
-  <summary>📃 Certificates</summary>
+
+<summary>📃 Certificates</summary>
 
 ## Certificates
 [![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano)](https://github.com/KnlnKS/leetcode-stats)
