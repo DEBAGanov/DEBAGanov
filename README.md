@@ -34,7 +34,7 @@ I am an experienced Software Engineer with a strong background in developing app
 
 
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov)](https://github.com/DEBAGanov)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
 
 
 
@@ -211,7 +211,7 @@ I am an experienced Software Engineer with a strong background in developing app
 
 ## Certificates
 ### Exercises LeetCode
-[![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano)](https://github.com/KnlnKS/leetcode-stats)
+[![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
