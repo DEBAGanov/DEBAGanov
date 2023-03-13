@@ -203,10 +203,18 @@ I am an experienced Software Engineer with a strong background in developing app
 
 
 
-</details>
 
-![](https://komarev.com/ghpvc/?username=DEBAGanov)
 
+<details>
+  <summary>📃 Certificates</summary>
 
 ## Certificates
 [![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano)](https://github.com/KnlnKS/leetcode-stats)
+
+
+
+
+
+</details>
+
+![](https://komarev.com/ghpvc/?username=DEBAGanov)
