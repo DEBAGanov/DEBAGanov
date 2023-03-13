@@ -2,7 +2,7 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/baganov/">
+  <a href="https://www.linkedin.com/in/baganovvladimir/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="(https://facebook.com/baganov">
@@ -30,6 +30,7 @@
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov)](https://github.com/DEBAGanov)
+
 [![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano)](https://github.com/KnlnKS/leetcode-stats)
 
 
