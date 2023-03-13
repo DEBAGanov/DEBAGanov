@@ -205,7 +205,8 @@ I am an experienced Software Engineer with a strong background in developing app
 
 
 
-
+<details>
+<details>
 <summary>📃 Certificates</summary>
 
 ## Certificates
