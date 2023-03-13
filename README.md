@@ -202,10 +202,10 @@ I am an experienced Software Engineer with a strong background in developing app
 📍 **Energisa** - Presidente Prudente/SP, Brazil
 
 
+</details>
 
 
 
-<details>
 <details>
 <summary>📃 Certificates</summary>
 
