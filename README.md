@@ -8,6 +8,9 @@
   <a href="(https://facebook.com/baganov/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="(https://facebook.com/baganov/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   <a href="https://t.me/baganovs">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
@@ -217,11 +220,6 @@ I am an experienced Software Engineer with a strong background in developing app
 
 
 
-
-</details>
-
-![](https://komarev.com/ghpvc/?username=DEBAGanov)
-
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -239,3 +237,8 @@ I am an experienced Software Engineer with a strong background in developing app
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/92801430" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
+
+</details>
+
+![](https://komarev.com/ghpvc/?username=DEBAGanov)
