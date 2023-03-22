@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="(https://facebook.com/baganov/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+    <img src="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%" />        
   </a>&nbsp;&nbsp;
   <a href="https://t.me/baganovs">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
