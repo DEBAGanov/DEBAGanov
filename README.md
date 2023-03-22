@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/baganovvladimir/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="(https://facebook.com/baganov/">
+  <a href="https://facebook.com/baganov/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="(https://facebook.com/baganov/">
-    <img src="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%" />        
+  <a href="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://t.me/baganovs">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
