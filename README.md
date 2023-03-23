@@ -220,6 +220,13 @@ I am an experienced Software Engineer with a strong background in developing app
 
 
 
+
+
+
+</details>
+
+<details>
+<summary>📃 Сounter</summary>
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -238,7 +245,27 @@ I am an experienced Software Engineer with a strong background in developing app
 <noscript><div><img src="https://mc.yandex.ru/watch/92801430" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
+<!-- Linkedin counter -->
+<script type="text/javascript">
+_linkedin_partner_id = "366427";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=366427&fmt=gif" />
+</noscript>
+<!-- /Linkedin counter -->
 
 </details>
 
+counter
 ![](https://komarev.com/ghpvc/?username=DEBAGanov)
