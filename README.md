@@ -158,19 +158,19 @@ I am an experienced Software Engineer with a strong background in developing app
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - moment\
-📍 **Xp Inc** - São Paulo/SP, Brazil
+📍 **Xp Inc** - São Paulo/Moscow, Russia
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - oct/2021\
-📍 **Avanade** - São Paulo/SP, Brazil
+📍 **Avanade** - São Paulo/Moscow, Russia
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+📍 **Squadra Digital** - Belo Horizonte/Moscow, Russia
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
@@ -182,7 +182,7 @@ I am an experienced Software Engineer with a strong background in developing app
 
 - 👨‍💻 **CIO and Cross Mobile Developer**\
 📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
+📍 **Infinitus Solutions** - Curitiba/Moscow, Russia
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -192,7 +192,7 @@ I am an experienced Software Engineer with a strong background in developing app
 
 - 👨‍💻 **Systems Analyst and Front End Developer**\
 📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
+📍 **Web Works** - Presidente Prudente/Moscow, Russia
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
@@ -202,7 +202,7 @@ I am an experienced Software Engineer with a strong background in developing app
 
 - 👨‍💻 **Office Assistant**\
 📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente/SP, Brazil
+📍 **Energisa** - Presidente Prudente/Moscow, Russia
 
 
 </details>
