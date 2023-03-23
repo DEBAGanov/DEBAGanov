@@ -267,5 +267,5 @@ s.parentNode.insertBefore(b, s);})(window.lintrk);
 
 </details>
 
-counter
+
 ![](https://komarev.com/ghpvc/?username=DEBAGanov)
