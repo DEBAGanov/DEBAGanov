@@ -136,12 +136,12 @@ I am an experienced Software Engineer with a strong background in developing app
 <!---[![codewars](https://www.codewars.com/users/username/DEBAGanov/large)](https://www.codewars.com/users/DEBAGanov)-->   
 
 ## Resume
-<details>
+
 ![Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/Resume_1.jpeg)
 
 ![Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/Resume_1.pdf)
 
-</details>
+
 
 <details>
   <summary>📃 Resume</summary>
