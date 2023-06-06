@@ -139,14 +139,13 @@ My blog: https://dzen.ru/debaganov
 <!---[![codewars](https://www.codewars.com/users/username/DEBAGanov/large)](https://www.codewars.com/users/DEBAGanov)-->   
 
 ## Resume
-<!---![Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/Resume_1.pdf)
-![Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/Resume_1.jpeg)-->  
+![Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeGit.pdf)
+![Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeGit.jpeg)
 
 
 
 
-
-<details>
+<!---[<details>
   <summary>📃 Resume</summary>
 
 
@@ -212,7 +211,7 @@ My blog: https://dzen.ru/debaganov
 📍 **Energisa** - Presidente Prudente/Moscow, Russia
 
 
-</details>
+</details>-->
 
 
 
