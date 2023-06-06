@@ -139,7 +139,7 @@ My blog: https://dzen.ru/debaganov
 <!---[![codewars](https://www.codewars.com/users/username/DEBAGanov/large)](https://www.codewars.com/users/DEBAGanov)-->   
 
 ## Resume
-![Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeGit.pdf)
+[Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeBaganov.pdf)
 ![Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeGit.jpeg)
 
 
