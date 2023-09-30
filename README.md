@@ -266,6 +266,11 @@ _tmr.push({id: "3403285", type: "pageView", start: (new Date()).getTime()});
 <noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3403285;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
 <!-- /Top.Mail.Ru counter -->
 
+<!-- Top.Mail.Ru counter -->
+https://top-fwz1.mail.ru/tracker?id=3403285;e=RG%3A/trg-pixel-18507956-1696078797796;_= 96078797
+
+<!-- /Top.Mail.Ru counter -->
+
 
 <!-- Linkedin counter -->
 <script type="text/javascript">
