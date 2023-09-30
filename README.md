@@ -1,23 +1,23 @@
 
 
 <p align='center'>
-  
+
   <a href="https://www.linkedin.com/in/baganovvladimir/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/baganov/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%">
-    <img src="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%" />        
+    <img src="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/baganovs">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/bagano/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>&nbsp;&nbsp;
-  
+
 </p>
 
 
@@ -28,11 +28,11 @@
 
 
 
-<h1 align="center">Hi there, I'm <a href="https://t.me/baganovs" target="_blank">Vladimir Baganov</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/baganovs" target="_blank">Vladimir Baganov</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'm student St. Petersburg Polytechnic University of Peter the Great, Software Engineer. </h3>
 <a href="https://mc.yandex.ru/watch/92801430">
-    <img src="https://mc.yandex.ru/watch/92801430" />        
+    <img src="https://mc.yandex.ru/watch/92801430" />
 </a>&nbsp;&nbsp;
 
 I am an experienced Software Engineer with a strong background in developing applications using Java. I have experience building enterprise-level applications with a focus on scalability, reliability, and performance. My experience also includes developing complex algorithms, implementing database solutions, and creating RESTful web services. I am also well-versed in using various development tools and technologies, such as Git, Maven, Jenkins, and JUnit. I am an enthusiastic and motivated individual who is always eager to learn and contribute to the development process.
@@ -136,7 +136,7 @@ My blog: https://dzen.ru/debaganov
 
 
 
-<!---[![codewars](https://www.codewars.com/users/username/DEBAGanov/large)](https://www.codewars.com/users/DEBAGanov)-->   
+<!---[![codewars](https://www.codewars.com/users/username/DEBAGanov/large)](https://www.codewars.com/users/DEBAGanov)-->
 
 ## Resume
 [Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeBaganov.pdf)
@@ -165,13 +165,13 @@ My blog: https://dzen.ru/debaganov
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - moment\
 📍 **Xp Inc** - São Paulo/Moscow, Russia
-  
+
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2021 - oct/2021\
 📍 **Avanade** - São Paulo/Moscow, Russia
-  
+
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Cross Mobile Developer**\
@@ -250,6 +250,22 @@ My blog: https://dzen.ru/debaganov
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/92801430" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+
+<!-- Top.Mail.Ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3403285", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "tmr-code");
+</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3403285;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+<!-- /Top.Mail.Ru counter -->
+
 
 <!-- Linkedin counter -->
 <script type="text/javascript">
