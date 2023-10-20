@@ -52,12 +52,6 @@ My blog: https://dzen.ru/debaganov
 
 
 
-<!--
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="200"/>
-</div> -->
-
-
 
 
 <!---### Key points-->
@@ -81,7 +75,6 @@ My blog: https://dzen.ru/debaganov
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
 
 ## Skills
@@ -128,7 +121,11 @@ My blog: https://dzen.ru/debaganov
 <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/gradle-02303A?logo=gradle&logoColor=white" />
-
+<img align="right" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)" />
+<img align="right" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+<img align="right" src=https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img align="right" src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 
 
