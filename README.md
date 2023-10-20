@@ -138,6 +138,42 @@ My blog: https://dzen.ru/debaganov
 
 <!---[![codewars](https://www.codewars.com/users/username/DEBAGanov/large)](https://www.codewars.com/users/DEBAGanov)-->
 
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+@keyframes blink {
+  0% {
+    background-color: red;
+  }
+  50% {
+    background-color: white;
+  }
+  100% {
+    background-color: red;
+  }
+}
+
+.button {
+  width: 200px;
+  height: 50px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 5px;
+  animation: blink 1s infinite;
+}
+</style>
+</head>
+<body>
+<button class="button">В поиске работы</button>
+</body>
+</html>
+
+
+
 ## Resume
 [Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeBaganov.pdf)
 ![Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeGit.jpeg)
