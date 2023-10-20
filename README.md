@@ -43,9 +43,9 @@ My blog: https://dzen.ru/debaganov
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
 
 
-
+<BR>
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="200"/>
 </div>
 
 
