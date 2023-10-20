@@ -39,9 +39,11 @@ I am an experienced Software Engineer with a strong background in developing app
 
 My blog: https://dzen.ru/debaganov
 
+<div id="header" align="right">
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov) <BR>
+ <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="200"/>
+</div>
 
 <BR>
 <div id="header" align="right">
