@@ -50,10 +50,6 @@ My blog: https://dzen.ru/debaganov
 </table>
 
 
-<div style="display: inline-block;">
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)">
-  <img src="[путь_к_второй_картинке](https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif)" alt="Вторая картинка">
-</div>
 
 
 <!--
