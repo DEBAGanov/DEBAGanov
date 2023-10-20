@@ -121,10 +121,7 @@ My blog: https://dzen.ru/debaganov
 <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/gradle-02303A?logo=gradle&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
-<img align="right" src=https://img.shields.io/badge/jenkins-%232C5263.svg?logo=docker&logoColor=white" />
-<img align="right" src=https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" />
+
 
 
 
