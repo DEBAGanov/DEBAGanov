@@ -44,7 +44,9 @@ My blog: https://dzen.ru/debaganov
 
 
 
-
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="300"/>
+</div>
 
 
 
@@ -139,9 +141,7 @@ My blog: https://dzen.ru/debaganov
 <!---[![codewars](https://www.codewars.com/users/username/DEBAGanov/large)](https://www.codewars.com/users/DEBAGanov)-->
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="300"/>
-</div>
+
 
 
 ## Resume
