@@ -40,9 +40,14 @@ I am an experienced Software Engineer with a strong background in developing app
 My blog: https://dzen.ru/debaganov
 
 <!---Для подробной версии-->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov) <BR> -->
- <!-- <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="200"/> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)  -->
 
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
 
 
 <div style="display: inline-block;">
