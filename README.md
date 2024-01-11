@@ -41,15 +41,19 @@ My blog: https://dzen.ru/debaganov
 
 <!---Для подробной версии-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)  -->
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov" /></td>
     <td valign="top"><img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="205"/></td>
   </tr>
-</table>
+</table> -->
 </div>
 
+<div id="header" align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
+[![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</div>
 
 
 
