@@ -150,6 +150,13 @@ My blog: https://dzen.ru/debaganov
 ##
 ## PROJECTS
 
+`DATABASE and SQL`
+[sql_academy_solutions](https://github.com/DEBAGanov/sql_academy_solutions) - Решение задач по SQL. Тренажер sql-academy.org
+
+
+`USAGE DOCKER AND DOCKER-COMPOSE`
+
+
 `USAGE MESSAGE BROKER`
 
 [Kafka_Connect](https://github.com/DEBAGanov/Kafka_Connect)  - Используем Kafka для передачи сообщений в Spring Boot.
@@ -159,7 +166,7 @@ My blog: https://dzen.ru/debaganov
 
 [Spring_REST_service](https://github.com/DEBAGanov/Spring_REST_service)  - Простой REST сервис на основе Spring Boot, Thymeleaf, Spring Data, Hibernate.
 
-[spring-starter](https://github.com/DEBAGanov/spring-starter)  - Разбор учбного курса по Spring.
+[spring-starter](https://github.com/DEBAGanov/spring-starter)  - Разбор учебного курса по Spring.
 
 
 ## Resume
