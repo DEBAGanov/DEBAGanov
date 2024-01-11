@@ -158,7 +158,7 @@ My blog: https://dzen.ru/debaganov
 
 `USAGE DOCKER AND DOCKER-COMPOSE`
 
-[springboot-postgresql-docker](https://github.com/DEBAGanov/springboot-postgresql-docker) - Решение задач по SQL. Тренажер sql-academy.org
+[springboot-postgresql-docker](https://github.com/DEBAGanov/springboot-postgresql-docker) -  Работа с Docker. Поднимаем базу данных Postgres для Spring.
 
 `USAGE MESSAGE BROKER`
 
