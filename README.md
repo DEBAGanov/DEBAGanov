@@ -154,9 +154,10 @@ USAGE MESSAGE BROKER
 [Kafka_Connect](https://github.com/DEBAGanov/Kafka_Connect)  - Используем Kafka для передачи сообщений в Spring Boot.
 
 
-SOME PROJECTS WITH SPRING
+`SOME PROJECTS WITH SPRING`
 
 [Spring_REST_service](https://github.com/DEBAGanov/Spring_REST_service)  - Простой REST сервис на основе Spring Boot, Thymeleaf, Spring Data, Hibernate.
+
 [spring-starter](https://github.com/DEBAGanov/spring-starter)  - Разбор учбного курса по Spring.
 
 
