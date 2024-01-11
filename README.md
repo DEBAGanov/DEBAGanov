@@ -147,6 +147,10 @@ My blog: https://dzen.ru/debaganov
 
 
 
+## PROJECTS
+
+USAGE MESSAGE BROKER
+[Kafka_Connect](https://github.com/DEBAGanov/Kafka_Connect)  - Используем Kafka для передачи сообщений в Spring Boot.
 
 
 ## Resume
