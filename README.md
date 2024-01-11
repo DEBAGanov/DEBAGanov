@@ -47,8 +47,8 @@ My blog: https://dzen.ru/debaganov
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov" /></td>
     <td valign="top"><img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="205"/></td>
   </tr>
-</table> -->
-</div>
+</table>
+</div> -->
 
 <div id="header">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
