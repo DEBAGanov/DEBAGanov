@@ -79,7 +79,7 @@ My blog: https://dzen.ru/debaganov
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
-
+##
 ## Skills
 
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
@@ -172,6 +172,9 @@ My blog: https://dzen.ru/debaganov
 
 [number_generator](https://github.com/DEBAGanov/Java-Spring-Test-Tasks/tree/main/number_generator)  - Spring Boot. REST-сервис, выдающий автомобильные номер
 
+
+
+##
 ## Resume
 [Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeBaganov.pdf)
 ![Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeGit.jpeg)
