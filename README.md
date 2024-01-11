@@ -148,7 +148,8 @@ My blog: https://dzen.ru/debaganov
 
 
 ##
-## PROJECTS
+<!-- ## PROJECTS -->
+## Projects
 
 `DATABASE AND SQL`
 
