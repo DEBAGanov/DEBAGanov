@@ -151,15 +151,17 @@ My blog: https://dzen.ru/debaganov
 ## PROJECTS
 
 `DATABASE and SQL`
+
 [sql_academy_solutions](https://github.com/DEBAGanov/sql_academy_solutions) - Решение задач по SQL. Тренажер sql-academy.org
 
 
 `USAGE DOCKER AND DOCKER-COMPOSE`
 
+[springboot-postgresql-docker](https://github.com/DEBAGanov/springboot-postgresql-docker) - Решение задач по SQL. Тренажер sql-academy.org
 
 `USAGE MESSAGE BROKER`
 
-[Kafka_Connect](https://github.com/DEBAGanov/Kafka_Connect)  - Используем Kafka для передачи сообщений в Spring Boot.
+[Kafka_Connect](https://github.com/DEBAGanov/Kafka_Connect)  - Использование Kafka для передачи сообщений в Spring Boot.
 
 
 `SOME PROJECTS WITH SPRING`
@@ -168,6 +170,7 @@ My blog: https://dzen.ru/debaganov
 
 [spring-starter](https://github.com/DEBAGanov/spring-starter)  - Разбор учебного курса по Spring.
 
+[number_generator](https://github.com/DEBAGanov/Java-Spring-Test-Tasks/tree/main/number_generator)  - Spring Boot. REST-сервис, выдающий автомобильные номер
 
 ## Resume
 [Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeBaganov.pdf)
