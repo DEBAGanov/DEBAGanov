@@ -150,7 +150,7 @@ My blog: https://dzen.ru/debaganov
 ##
 ## PROJECTS
 
-`DATABASE and SQL`
+`DATABASE AND SQL`
 
 [sql_academy_solutions](https://github.com/DEBAGanov/sql_academy_solutions) - Решение задач по SQL. Тренажер sql-academy.org
 
