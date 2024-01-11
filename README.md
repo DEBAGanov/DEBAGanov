@@ -50,7 +50,7 @@ My blog: https://dzen.ru/debaganov
 </table> -->
 </div>
 
-<div id="header" align="center">
+<div id="header">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
 [![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </div>
