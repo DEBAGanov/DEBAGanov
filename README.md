@@ -35,23 +35,23 @@
     <img src="https://mc.yandex.ru/watch/92801430" />
 </a>&nbsp;&nbsp;
 
-I am an experienced Software Engineer with a strong background in developing applications using Java. I have experience building enterprise-level applications with a focus on scalability, reliability, and performance. My experience also includes developing complex algorithms, implementing database solutions, and creating RESTful web services. I am also well-versed in using various development tools and technologies, such as Git, Maven, Jenkins, and JUnit. I am an enthusiastic and motivated individual who is always eager to learn and contribute to the development process.
+I am an experienced Software Engineer with a strong background in developing applications using Java. I have experience building enterprise-level applications with a focus on scalability, reliability, and performance. My experience also includes developing complex algorithms, implementing database solutions, and creating RESTful web services. I am also well-versed in using various development tool1s and technologies, such as Git, Maven, Jenkins, and JUnit. I am an enthusiastic and motivated individual who is always eager to learn and contribute to the development process.
 
 My blog: https://dzen.ru/debaganov
 
 <!---Для подробной версии-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)  -->
-<!-- <div id="header" align="center">
+<div id="header" align="center">
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov" /></td>
     <td valign="top"><img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="205"/></td>
   </tr>
 </table>
-</div> -->
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
-[![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
+[![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
 
 
