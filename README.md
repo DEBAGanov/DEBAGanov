@@ -50,6 +50,12 @@ My blog: https://dzen.ru/debaganov
 </table>
 </div>
 
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEBAGanov&theme=default" alt="o1ra" /></p>
+
+<p>&nbsp; <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DEBAGanov&theme=github" alt="stats_o1ra" /></p>
+
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEBAGanov&theme=default" alt="stats_o1ra"/></p>&nbsp;
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
 [![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
