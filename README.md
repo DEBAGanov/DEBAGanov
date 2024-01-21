@@ -41,14 +41,14 @@ My blog: https://dzen.ru/debaganov
 
 <!---Для подробной версии-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)  -->
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov" /></td>
     <td valign="top"><img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" width="205"/></td>
   </tr>
 </table>
-</div>
+</div> -->
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEBAGanov&theme=default" alt="o1ra" /></p>
 
