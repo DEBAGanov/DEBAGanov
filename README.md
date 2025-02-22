@@ -56,6 +56,8 @@ My blog: https://dzen.ru/debaganov
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEBAGanov&theme=default" alt="stats_o1ra"/></p>&nbsp;
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DEBAGanov)](https://git.io/streak-stats)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)
 [![DEBAGanov LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bagano&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
