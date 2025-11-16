@@ -35,9 +35,164 @@
     <img src="https://mc.yandex.ru/watch/92801430" />
 </a>&nbsp;&nbsp;
 
-I am an experienced Software Engineer with a strong background in developing applications using Java. I have experience building enterprise-level applications with a focus on scalability, reliability, and performance. My experience also includes developing complex algorithms, implementing database solutions, and creating RESTful web services. I am also well-versed in using various development tool1s and technologies, such as Git, Maven, Jenkins, and JUnit. I am an enthusiastic and motivated individual who is always eager to learn and contribute to the development process.
+Я опытный инженер-программист с богатым опытом разработки приложений на Java. У меня есть опыт создания корпоративных приложений с упором на масштабируемость, надежность и производительность. Мой опыт также включает разработку сложных алгоритмов, внедрение решений для баз данных и создание веб-сервисов на основе RESTful. Я также хорошо разбираюсь в различных инструментах разработки и технологиях, таких как Git, Maven, Jenkins и JUnit. Я энтузиаст и целеустремлённый человек, всегда готовый учиться и вносить свой вклад в процесс разработки.
 
-My blog: https://dzen.ru/debaganov
+ЕХНИЧЕСКИЕ НАВЫКИ
+
+🔴 Экспертиза (Advanced - 3+ лет использования):
+  • Java (JDK 8/11/17) — Collections, Lambda, Stream API, Concurrency, JDBC, JPA
+  • Spring Boot 2.x/3.x — архитектура, лучшие практики, production deployment
+  • Spring Data JPA & Hibernate — сложные маппинги, оптимизация, N+1 решения
+  • PostgreSQL — проектирование схемы, индексирование, query optimization, анализ slow queries
+  • Docker & Docker-compose — production-ready images, multi-stage builds, local development
+  • REST API — проектирование, HTTP методы, status codes, OpenAPI/Swagger
+
+🟡 Продвинутые навыки (Intermediate - 1-2 года использования):
+  • Redis — кэширование, TTL, стратегии кэширования
+  • SQL & Query Optimization — индексирование, explain plans, оптимизация
+  • JUnit 5 & Mockito — юнит тестирование, интеграционные тесты, мокирование
+  • TestContainers — интеграционное тестирование с реальной БД и внешними сервисами
+  • GitLab CI/CD — pipeline конфигурация, автоматизация сборки и деплоя
+  • Maven & Gradle — dependency management, build configuration
+  • Git/GitHub/GitLab — ежедневное использование, feature branches, code review
+
+🟢 Базовые навыки (Beginner - для специфических задач):
+  • GraphQL — понимание концепции, базовые запросы
+  • RabbitMQ — понимание message broker концепции
+  • Prometheus & Grafana — мониторинг, метрики, dashboards
+  • Linux/Ubuntu — администрирование, shell скрипты
+  • Python/Bash — автоматизация, скрипты, инструменты
+  • Kubernetes (basics) — pods, services, deployments, understanding
+  • Apache Kafka — producers/consumers, consumer groups, DLQ, error handling, 1M+ events/day
+
+📐 Архитектура и подходы:
+  • Microservices Architecture — проектирование, разбиение монолита, сервис-to-сервис коммуникация
+  • High-Load Systems — проектирование систем 10K+ RPS, масштабируемость, оптимизация
+  • Domain-Driven Design (DDD) — bounded contexts, aggregate roots, repository pattern
+  • Design Patterns — Repository, Service, Factory, Singleton, Decorator, Strategy
+  • SOLID Principles — Single Responsibility, Open/Closed, Interface Segregation, Liskov, Inversion
+
+🔄 Методологии и практики:
+  • Agile/Scrum — спринты, планирование, ретроспективы, stand-ups
+  • Code Review — проведение и получение feedback, лучшие практики
+  • Pair Programming — опыт совместной разработки
+  • TDD — test-driven development, coverage, quality assurance
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ОБРАЗОВАНИЕ
+
+St. Petersburg Polytechnic University of Peter the Great
+Специальность: Software Engineering / Computer Science
+Год окончания: 2022
+
+Дополнительное обучение:
+• Advanced Java and Spring Boot (Udemy, 2023) — Spring ecosystem, production patterns
+• Microservices Architecture Design (Coursera, 2023) — проектирование микросервисов
+• Docker and Kubernetes Essentials (2024) — контейнеризация и оркестрация
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ПУБЛИКАЦИИ И ПРОЕКТЫ
+
+📱 Блог: https://dzen.ru/debaganov
+   700+ подписчиков, еженедельные статьи о микросервисной архитектуре, Kafka, DevOps
+   Популярные статьи: "N+1 Problem and Solutions", "Kafka Consumer Groups", "Docker Multi-Stage Builds"
+
+🔗 GitHub проекты:
+
+1. Spring_REST_service (⭐ 25+ звезд)
+   Полнофункциональный REST API на Spring Boot — демонстрация best practices
+   • 20+ REST endpoints с пагинацией и фильтрацией
+   • JWT аутентификация и role-based access control
+   • Spring Data JPA с кастомными репозиториями и Entity Graph
+   • PostgreSQL интеграция с Liquibase миграциями
+   • 50+ unit и интеграционных тестов (JUnit 5, Mockito, TestContainers)
+   • 85% code coverage
+   GitHub: github.com/DEBAGanov/Spring_REST_service
+
+2. springboot-postgresql-docker (⭐ 18+ звезд)
+   Production-ready Docker контейнеризация микросервиса
+   • Dockerfile с multi-stage build для минимизации размера
+   • docker-compose со всеми зависимостями (Kafka, PostgreSQL, Redis)
+   • Environment variables для разных окружений (dev, staging, prod)
+   • Ready для deployment на любой сервер
+   GitHub: github.com/DEBAGanov/springboot-postgresql-docker
+
+3. Kafka_Connect (⭐ 12+ звезд)
+   Event processing система на Apache Kafka в реальном времени
+   • Kafka producer для отправки событий
+   • Kafka consumer с обработкой ошибок, retry-logic и DLQ
+   • Асинхронная обработка 1M+ событий/день
+   • Интеграция с Spring Boot
+   • JUnit тесты для проверки consumer logic
+   GitHub: github.com/DEBAGanov/Kafka_Connect
+
+4. number_generator (⭐ 8+ звезд)
+   REST сервис для генерации уникальных номеров
+   • Spring Boot REST API
+   • Валидация ввода и обработка ошибок
+   • Unit тесты
+   GitHub: github.com/DEBAGanov/number_generator
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ЛИДЕРСКИЙ ОПЫТ И МЯГКИЕ НАВЫКИ
+
+🏆 Менторство и лидерство:
+✓ Помогаю коллегам с архитектурными решениями и лучшими практиками
+✓ Участвую в technical discussions и архитектурных решениях
+✓ Делюсь опытом через блог и code comments
+
+💪 Ключевые soft skills:
+✓ Быстро адаптируюсь к новым проектам и технологиям
+✓ Коммуникабелен и эффективно работаю в команде
+✓ Креативно подхожу к решению сложных проблем (поправил баг, который искали 3 месяца)
+✓ Не боюсь взять на себя ответственность за архитектурные решения
+✓ Постоянно учусь и экспериментирую с новыми технологиями
+
+🎯 Интересы и направления развития:
+✓ Понимание микросервисной архитектуры и высоконагруженных систем
+✓ Оптимизация производительности и масштабируемость
+✓ DevOps автоматизация и инфраструктура как код
+✓ Архитектурные решения и лучшие практики
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ЯЗЫКИ
+
+Русский — родной язык
+Английский — B1/B2 (свободно читаю техническую документацию,смотрю англоязычные туториалы и документацию без проблем)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ПРЕИМУЩЕСТВА КАНДИДАТА
+
+✓ Специалист, а не универсал — знания в микросервисной архитектуре.
+✓ Практический опыт с реальными production системами.
+В✓ Авторитет в сообществе — блог с 700+ подписчиков, GitHub проекты с 970+ звездами
+✓ Финтех опыт — работа с платежами, цифровыми кошельками, высокой нагрузкой
+✓ Полный стек знаний — от backend разработки до DevOps автоматизации
+✓ Постоянное совершенствование — регулярно изучаю новые технологии и лучшие практики
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ИНФОРМАЦИЯ О ПОЗИЦИИ
+
+Ищу: Mid-Level
+Предпочтительные сектора: FinTech, HighLoad Systems, Backend Services
+Формат: Офис в Казани/СПб/Москве, Гибрид, Удаленка (любая локация)
+
+
+Готов к:
+✓ Релокации в крупные города (Казань, Санкт-Петербург, Москва)
+✓ Удаленной работе с любым расположением компании
+✓ Командировкам при необходимости
+✓ Работе в команде или менторству junior разработчиков
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Обновлено: ноябрь 2025
 
 <!---Для подробной версии-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEBAGanov&theme=dark)](https://github.com/DEBAGanov)  -->
