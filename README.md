@@ -93,6 +93,7 @@ St. Petersburg Polytechnic University of Peter the Great
 • Docker and Kubernetes Essentials (2024) — контейнеризация и оркестрация
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ПУБЛИКАЦИИ И ПРОЕКТЫ
 
 📱 Блог: https://dzen.ru/debaganov
@@ -136,6 +137,7 @@ St. Petersburg Polytechnic University of Peter the Great
    GitHub: github.com/DEBAGanov/number_generator
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ЛИДЕРСКИЙ ОПЫТ И МЯГКИЕ НАВЫКИ
 
 🏆 Менторство и лидерство:
@@ -157,12 +159,14 @@ St. Petersburg Polytechnic University of Peter the Great
 ✓ Архитектурные решения и лучшие практики
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ЯЗЫКИ
 
 Русский — родной язык
 Английский — B1/B2 (свободно читаю техническую документацию,смотрю англоязычные туториалы и документацию без проблем)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ПРЕИМУЩЕСТВА КАНДИДАТА
 
 ✓ Специалист, а не универсал — знания в микросервисной архитектуре.
@@ -173,6 +177,7 @@ St. Petersburg Polytechnic University of Peter the Great
 ✓ Постоянное совершенствование — регулярно изучаю новые технологии и лучшие практики
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ИНФОРМАЦИЯ О ПОЗИЦИИ
 
 Ищу: Mid-Level
@@ -187,6 +192,7 @@ St. Petersburg Polytechnic University of Peter the Great
 ✓ Работе в команде или менторству junior разработчиков
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Обновлено: ноябрь 2025
 
 <!---Для подробной версии-->
