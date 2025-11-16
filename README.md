@@ -28,9 +28,9 @@
 
 
 
-<h1 align="center">Hi there, I'm <a href="https://t.me/baganovs" target="_blank">Vladimir Baganov</a>
+<h1 align="center">Привет, я <a href="https://t.me/baganovs" target="_blank">Владимир Баганов</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> I'm student St. Petersburg Polytechnic University of Peter the Great, Software Engineer. </h3>
+<h3 align="center"> Я опытный инженер-программист с опытом разработки приложений на Java. </h3>
 <a href="https://mc.yandex.ru/watch/92801430">
     <img src="https://mc.yandex.ru/watch/92801430" />
 </a>&nbsp;&nbsp;
