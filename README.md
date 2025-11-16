@@ -133,7 +133,8 @@ St. Petersburg Polytechnic University of Peter the Great
 
    700+ подписчиков, еженедельные статьи о микросервисной архитектуре, Kafka, DevOps
    Популярные статьи: "N+1 Problem and Solutions", "Kafka Consumer Groups", "Docker Multi-Stage Builds"
-   
+
+📱 Habr: Статьи на Хабр.  https://habr.com/ru/users/DEBAGanov/articles/
 
 🔗 GitHub проекты:
 
