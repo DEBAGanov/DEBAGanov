@@ -405,12 +405,12 @@ St. Petersburg Polytechnic University of Peter the Great
 [number_generator](https://github.com/DEBAGanov/Java-Spring-Test-Tasks/tree/main/number_generator)  - Spring Boot. REST-сервис, выдающий автомобильные номер
 
 
-
+<!---[<details>
 ##
 ## Resume
 [Download Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeBaganov.pdf)
 ![Resume](https://github.com/DEBAGanov/DEBAGanov/raw/main/ResumeGit.jpeg)
-
+</details>-->
 
 
 
