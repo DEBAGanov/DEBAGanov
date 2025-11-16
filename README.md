@@ -202,7 +202,7 @@
   • REST API — проектирование, HTTP методы, status codes, OpenAPI/Swagger
   
 
-🟡 Продвинутые навыки (Intermediate - 1-2 года использования):
+### 🟡 Продвинутые навыки (Intermediate - 1-2 года использования):
 
   • Redis — кэширование, TTL, стратегии кэширования
   
@@ -219,7 +219,7 @@
   • Git/GitHub/GitLab — ежедневное использование, feature branches, code review
   
 
-🟢 Базовые навыки (Beginner - для специфических задач):
+### 🟢 Базовые навыки (Beginner - для специфических задач):
 
   • GraphQL — понимание концепции, базовые запросы
   
@@ -235,7 +235,7 @@
   
   • Apache Kafka — producers/consumers, consumer groups, DLQ, error handling, 1M+ events/day
 
-📐 Архитектура и подходы:
+### 📐 Архитектура и подходы:
 
   • Microservices Architecture — проектирование, разбиение монолита, сервис-to-сервис коммуникация
     
@@ -245,7 +245,7 @@
   
   • SOLID Principles — Single Responsibility, Open/Closed, Interface Segregation, Liskov, Inversion
   
-🔄 Методологии и практики:
+### 🔄 Методологии и практики:
 
   • Agile/Scrum — спринты, планирование, ретроспективы, stand-ups
   
@@ -256,9 +256,8 @@
   • TDD — test-driven development, coverage, quality assurance
   
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ОБРАЗОВАНИЕ
+## ОБРАЗОВАНИЕ
 
 
 St. Petersburg Polytechnic University of Peter the Great
@@ -273,21 +272,20 @@ St. Petersburg Polytechnic University of Peter the Great
 
 • Docker and Kubernetes Essentials (2024) — контейнеризация и оркестрация
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ПУБЛИКАЦИИ И ПРОЕКТЫ
 
-📱 Блог: https://dzen.ru/debaganov
+## ПУБЛИКАЦИИ И ПРОЕКТЫ
+
+### 📱 Блог: https://dzen.ru/debaganov
 
    700+ подписчиков, еженедельные статьи о микросервисной архитектуре, Kafka, DevOps
    Популярные статьи: "N+1 Problem and Solutions", "Kafka Consumer Groups", "Docker Multi-Stage Builds"
 
-📱 Habr: Статьи на Хабр.  https://habr.com/ru/users/DEBAGanov/articles/
+### 📱 Habr: Статьи на Хабр.  https://habr.com/ru/users/DEBAGanov/articles/
 
-🔗 GitHub проекты:
+### 🔗 GitHub проекты:
 
-
-1. Spring_REST_service (⭐ 25+ звезд)
+ 1. Spring_REST_service (⭐ 25+ звезд)
    Полнофункциональный REST API на Spring Boot — демонстрация best practices
    
    • 20+ REST endpoints с пагинацией и фильтрацией
@@ -343,11 +341,10 @@ St. Petersburg Polytechnic University of Peter the Great
    
    GitHub: github.com/DEBAGanov/number_generator
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ЛИДЕРСКИЙ ОПЫТ И SOFT SKILLS
+## ЛИДЕРСКИЙ ОПЫТ И SOFT SKILLS
 
-🏆 Менторство и лидерство:
+### 🏆 Менторство и лидерство:
 
 ✓ Помогаю коллегам с архитектурными решениями и лучшими практиками
 
@@ -355,7 +352,7 @@ St. Petersburg Polytechnic University of Peter the Great
 
 ✓ Делюсь опытом через блог и code comments
 
-💪 Ключевые soft skills:
+### 💪 Ключевые soft skills:
 
 ✓ Быстро адаптируюсь к новым проектам и технологиям
 
@@ -368,7 +365,7 @@ St. Petersburg Polytechnic University of Peter the Great
 ✓ Постоянно учусь и экспериментирую с новыми технологиями
 
 
-🎯 Интересы и направления развития:
+### 🎯 Интересы и направления развития:
 
 ✓ Понимание микросервисной архитектуры и высоконагруженных систем
 
@@ -379,16 +376,8 @@ St. Petersburg Polytechnic University of Peter the Great
 ✓ Архитектурные решения и лучшие практики
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ЯЗЫКИ
-
-Русский — родной язык
-Английский — B1/B2 (свободно читаю техническую документацию,смотрю англоязычные туториалы и документацию без проблем)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-ПРЕИМУЩЕСТВА КАНДИДАТА
+## ПРЕИМУЩЕСТВА КАНДИДАТА
 
 ✓ Специалист, а не универсал — знания в микросервисной архитектуре.
 
@@ -402,7 +391,7 @@ St. Petersburg Polytechnic University of Peter the Great
 
 ✓ Постоянное совершенствование — регулярно изучаю новые технологии и лучшие практики
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 Обновлено: ноябрь 2025
 
