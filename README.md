@@ -42,11 +42,17 @@ TЕХНИЧЕСКИЕ НАВЫКИ
 🔴 Экспертиза (Advanced - 3+ лет использования):
 
   • Java (JDK 8/11/17) — Collections, Lambda, Stream API, Concurrency, JDBC, JPA
+  
   • Spring Boot 2.x/3.x — архитектура, лучшие практики, production deployment
+  
   • Spring Data JPA & Hibernate — сложные маппинги, оптимизация, N+1 решения
+  
   • PostgreSQL — проектирование схемы, индексирование, query optimization, анализ slow queries
+  
   • Docker & Docker-compose — production-ready images, multi-stage builds, local development
+  
   • REST API — проектирование, HTTP методы, status codes, OpenAPI/Swagger
+  
 
 🟡 Продвинутые навыки (Intermediate - 1-2 года использования):
   • Redis — кэширование, TTL, стратегии кэширования
